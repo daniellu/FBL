@@ -15,7 +15,7 @@ title: Hello World!
         </tr>
     </thead>
     <tbody>
-    {% for post in site.craigslist %}    
+    {% for post in site.data.craigslist %}    
         <tr>
             <td>{{ post.title }}</td>
             <td>{{ post.price }}</td>
