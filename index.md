@@ -21,6 +21,7 @@ title: Hello World!
     </thead>
     <tbody>
     {% for post in site.data.craigslist %}    
+        {% if post.title != null %}
         <tr>
             <td>{{ post.title }}</td>
             <td>{{ post.price }}</td>
@@ -28,6 +29,7 @@ title: Hello World!
             <td>{{ post.post_date }}</td>
             <td><a href="{{ post.url }}">View</a></td>
         </tr>
+        {% endif %}
     {% endfor %}
     </tbody>
 </table>
