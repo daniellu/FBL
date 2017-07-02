@@ -9,7 +9,7 @@ title: Hello World!
 <h2>Results of Craiglist Spider</h2>
 
 
-<table id="craiglistTable"  class="table table-striped table-bordered">
+<table id="craiglistTable"  class="table table-striped table-bordered" width="100%">
     <thead>
         <tr>
             <th>Title</th>
@@ -32,8 +32,4 @@ title: Hello World!
     </tbody>
 </table>
 
-<script>
-$(document).ready(function() {
-    $('#craiglistTable').DataTable();
-} );
-</script>
+
