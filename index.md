@@ -34,4 +34,8 @@ title: Hello World!
     </tbody>
 </table>
 
-
+<script>
+$(document).ready(function() {
+    $('#craiglistTable').DataTable();
+} );
+</script>
