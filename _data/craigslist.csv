@@ -1,32 +1,36 @@
-price,city,title,url,post_date
+price,url,post_date,title,city
 
-$188500,manhattan,Very nice ranch home,https://ksu.craigslist.org/reo/6201135699.html,2017-07-01  6:45pm
+$188500,https://ksu.craigslist.org/reo/6201135699.html,2017-07-01  6:45pm,Very nice ranch home,manhattan
 
-$20000,kansascity,OWNER FINANCED 4.5 A. Pomme De Terre Lk.,https://kansascity.craigslist.org/reo/6191479939.html,2017-06-24  4:57pm
+,https://ksu.craigslist.org/reo/6178087208.html,2017-06-15 12:24pm,"West Side 4 bedrooms, plus good size study room 2.5 bath condo",manhattan
 
-$119000,kansascity,Serene & Secluded Country Paradise Awaits You! 2 bedroom home w 10 acres!,https://kansascity.craigslist.org/reo/6200617124.html,2017-07-01 12:21pm
+$14000,https://kansascity.craigslist.org/reo/6200967380.html,2017-07-01  4:20pm,Manufactured Home for sale,kansascity
 
-$14000,kansascity,Manufactured Home for sale,https://kansascity.craigslist.org/reo/6200967380.html,2017-07-01  4:20pm
+,https://kansascity.craigslist.org/reo/6174969148.html,2017-06-13 10:38am,"KC Investor Group, New or Seasoned. Learn, collaborate, earn!",kansascity
 
-,kansascity,"KC Investor Group, New or Seasoned. Learn, collaborate, earn!",https://kansascity.craigslist.org/reo/6174969148.html,2017-06-13 10:38am
+$6500,https://kansascity.craigslist.org/reo/6201053542.html,2017-07-01  5:29pm,FULL REHAB Needed-marked down $6500,kansascity
 
-,kansascity,Captain Creek Hunting and Income,https://kansascity.craigslist.org/reb/6197151511.html,2017-06-28  8:10pm
+$30000,https://kansascity.craigslist.org/reo/6200613486.html,2017-07-01 12:19pm,"ATTN INVESTORS, OPEN HOUSE TODAY! DUPLEX FIXER UPPER",kansascity
 
-$20000,kansascity,OWNER FINANCED 4.5 A. Pomme De Terre Lk.,https://kansascity.craigslist.org/reo/6196580825.html,2017-06-28  1:04pm
+,https://kansascity.craigslist.org/reb/6197151511.html,2017-06-28  8:10pm,Captain Creek Hunting and Income,kansascity
 
-$37499,kansascity,Home needs some TLC but has potential,https://kansascity.craigslist.org/reo/6200417648.html,2017-07-01 10:14am
+$20000,https://kansascity.craigslist.org/reo/6196580825.html,2017-06-28  1:04pm,OWNER FINANCED 4.5 A. Pomme De Terre Lk.,kansascity
 
-$30000,kansascity,"ATTN INVESTORS, OPEN HOUSE TODAY! DUPLEX FIXER UPPER",https://kansascity.craigslist.org/reo/6200613486.html,2017-07-01 12:19pm
+$37499,https://kansascity.craigslist.org/reo/6200417648.html,2017-07-01 10:14am,Home needs some TLC but has potential,kansascity
 
-$6500,kansascity,FULL REHAB Needed-marked down $6500,https://kansascity.craigslist.org/reo/6201053542.html,2017-07-01  5:29pm
+$119000,https://kansascity.craigslist.org/reo/6200617124.html,2017-07-01 12:21pm,Serene & Secluded Country Paradise Awaits You! 2 bedroom home w 10 acres!,kansascity
 
-,kansascity,Buy Now Instead of Waiting to Get Your Credit Cleaned Up!,https://kansascity.craigslist.org/reo/6178450381.html,2017-06-15  4:12pm
+,https://kansascity.craigslist.org/reo/6178450381.html,2017-06-15  4:12pm,Buy Now Instead of Waiting to Get Your Credit Cleaned Up!,kansascity
 
-,kansascity,Fast and Reliable Private Funding for Real Estate Investors Like You,https://kansascity.craigslist.org/reo/6194983280.html,2017-06-27 11:16am
+$74900,https://kansascity.craigslist.org/reo/6167039116.html,2017-06-07  7:48pm,Need to Owner Finance and Get Your Credit Repaired Later?,kansascity
 
-$74900,kansascity,Need to Owner Finance and Get Your Credit Repaired Later?,https://kansascity.craigslist.org/reo/6167039116.html,2017-06-07  7:48pm
+,https://kansascity.craigslist.org/reo/6194983280.html,2017-06-27 11:16am,Fast and Reliable Private Funding for Real Estate Investors Like You,kansascity
 
-$42900,kansascity,**** Turnkey High Income Rental Property!!!   ****,https://kansascity.craigslist.org/reo/6201941247.html,2017-07-02  1:40pm
+$20000,https://kansascity.craigslist.org/reo/6191479939.html,2017-06-24  4:57pm,OWNER FINANCED 4.5 A. Pomme De Terre Lk.,kansascity
 
-,manhattan,"West Side 4 bedrooms, plus good size study room 2.5 bath condo",https://ksu.craigslist.org/reo/6178087208.html,2017-06-15 12:24pm
+$42900,https://kansascity.craigslist.org/reo/6201941247.html,2017-07-02  1:40pm,**** Turnkey High Income Rental Property!!!   ****,kansascity
+
+,https://kansascity.craigslist.org/reo/6202451846.html,2017-07-02  9:44pm,Last Chance 357 Acres Prime Kansas Grassland,kansascity
+
+$349900,https://kansascity.craigslist.org/reo/6192601045.html,2017-06-25  3:28pm,Beautiful 2551 sq ft Plaza Mansion,kansascity
 
